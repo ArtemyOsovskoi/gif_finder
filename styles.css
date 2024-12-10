@@ -21,3 +21,6 @@ img {
     width: 480px;
 }
 
+#search_nav {
+    display: flex;
+}
